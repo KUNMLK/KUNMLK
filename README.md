@@ -4,7 +4,7 @@
   你好，我是 <b>孟立坤 (Likun MENG)</b> 👋<br>
 </h1>
 
-<h3>🏠 <b>主页</b>：<a href="https://github.com/MengLikun" target="_blank">github.com/MengLikun</a></h3>
+<h3>🏠 <b>主页</b>：<a href="[https://github.com/MengLikun](https://github.com/KUNMLK)" target="_blank">github.com/MengLikun</a></h3>
 
 你好！我是 **孟立坤**，目前就读于 **北京化工大学** 机械设计制造及其自动化专业（2023年9月至今）。我的研究方向为 **机器人操作、运动规划、三维计算机视觉与具身智能**，主要专注于机械臂控制、抓取规划及三维点云理解领域。
 
