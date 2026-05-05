@@ -5,7 +5,7 @@
 
 I'm an undergraduate student in **Mechanical Design, Manufacturing and Automation** at **Beijing University of Chemical Technology** (2023–present). My research interests lie in **robotic manipulation, motion planning, 3D computer vision, and embodied AI** 
 - **GPA**: 92.31/100 (4.00/4.33)  
-- **Rank**: 1/81 (1.2%) in major | 2/81 comprehensively  
+- **Rank**: 2/81 (1.2%) 
 - **Awards**: National Scholarship, Li Wen Yang Yan Social Scholarship, Merit Scholarship, First-Class People’s Scholarship, University-level Merit Student  
 
 <p>
