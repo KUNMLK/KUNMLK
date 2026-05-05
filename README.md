@@ -20,14 +20,14 @@ I'm an undergraduate student in <b>Mechanical Design, Manufacturing and Automati
 ---
 
 ## 🎓 Education
-<h3 style="font-size:20px; margin-bottom:8px;">Education</h3>
+
 <p style="font-size:15px; line-height:1.6;"><b>Beijing University of Chemical Technology</b> – B.E. in Mechanical Design, Manufacturing and Automation (2023–Present)</p>
 <ul style="font-size:15px; line-height:1.6;">
 <li>Core Courses: Theoretical Mechanics (97), Mechanical Manufacturing Technology (96), Mechanical Design (94), Automatic Control Theory (93), Signals & Systems (94), Linear Algebra (93)</li>
 </ul>
 
 ## 🏅 Honors & Awards
-<h3 style="font-size:20px; margin-bottom:8px;">Honors & Awards</h3>
+
 <ul style="font-size:15px; line-height:1.6;">
 <li>National Scholarship (2024–2025)</li>
 <li>Li Wen Yang Yan Social Scholarship (2024–2025)</li>
@@ -37,7 +37,7 @@ I'm an undergraduate student in <b>Mechanical Design, Manufacturing and Automati
 </ul>
 
 ## 🤖 Research Experience
-<h3 style="font-size:20px; margin-bottom:8px;">Research Experience</h3>
+
 <p style="font-size:15px; line-height:1.6;"><b>RoboCup 2026 China @Home Service Robot</b> – Team Leader (Jan 2026 – Present)</p>
 <ul style="font-size:15px; line-height:1.6;">
 <li>Developing a home-service robot with reception, voice interaction, object recognition.</li>
@@ -52,7 +52,7 @@ I'm an undergraduate student in <b>Mechanical Design, Manufacturing and Automati
 </ul>
 
 ## 🏆 Competitions
-<h3 style="font-size:20px; margin-bottom:8px;">Competitions</h3>
+
 <ul style="font-size:15px; line-height:1.6;">
 <li><b>2025 RAICOM Robot Developer Competition (ROS Simulation)</b> – Leader, National Second Prize</li>
 <li><b>2025 RoboCup China @Home League</b> – Core Member</li>
@@ -62,7 +62,7 @@ I'm an undergraduate student in <b>Mechanical Design, Manufacturing and Automati
 </ul>
 
 ## 🛠️ Technical Skills
-<h3 style="font-size:20px; margin-bottom:8px;">Technical Skills</h3>
+
 <ul style="font-size:15px; line-height:1.6;">
 <li><b>Robotics</b>: ROS1/ROS2, RViz, Gazebo, MoveIt, MuJoCo</li>
 <li><b>Hardware & Design</b>: SolidWorks, Arduino</li>
