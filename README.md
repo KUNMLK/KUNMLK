@@ -6,7 +6,7 @@
 </h1>
 
 <p style="font-size:16px; line-height:1.6;">
-I'm an undergraduate student in <b>Mechanical Design, Manufacturing and Automation</b> at <b>Beijing University of Chemical Technology</b> (2023–present). My research interests lie in <b>robotic manipulation, motion planning, 3D computer vision, and embodied AI</b>
+I'm an undergraduate student in <b>Mechanical Design, Manufacturing and Automation</b> at <b>Beijing University of Chemical Technology</b> (2023–present). My research interests lie in <b>robotic manipulation, motion planning, 3D computer vision, and embodied AI.</b>
 </p>
 
 <ul style="font-size:15px; line-height:1.6;">
