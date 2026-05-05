@@ -16,7 +16,6 @@ I'm an undergraduate student in <b>Mechanical Design, Manufacturing and Automati
 
 <p>
   <a href="mailto:2023090104@buct.edu.cn"><img src="https://img.shields.io/badge/Email-2023090104@buct.edu.cn-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
-  <a href="https://github.com/MengLikun"><img src="https://img.shields.io/badge/GitHub-MengLikun-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
