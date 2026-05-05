@@ -17,9 +17,9 @@
 <p><i>欢迎通过邮件交流学术与科研合作。</i></p>
 
 <p>
-  <a href="mailto:2023090104@buct.edu.cn" target="_blank"><img src="email-icon.png" height="32px" alt="邮箱"></a>&nbsp;
-  <a href="https://github.com/MengLikun" target="_blank"><img src="github-icon.png" height="30px" alt="GitHub"></a>&nbsp;
-  <a href="tel:18835420796" target="_blank"><img src="phone-icon.png" height="30px" alt="电话"></a>&nbsp;
+  <a href="mailto:2023090104@buct.edu.cn" target="_blank"><img src="https://img.shields.io/badge/Email-2023090104@buct.edu.cn-D14836?style=flat&logo=gmail&logoColor=white" alt="邮箱"></a>&nbsp;
+  <a href="https://github.com/MengLikun" target="_blank"><img src="https://img.shields.io/badge/GitHub-MengLikun-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+  <a href="tel:18835420796" target="_blank"><img src="https://img.shields.io/badge/Phone-18835420796-4CAF50?style=flat&logo=telephone&logoColor=white" alt="电话"></a>&nbsp;
 </p>
 
 # 📑 教育经历
