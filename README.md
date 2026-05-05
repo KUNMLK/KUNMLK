@@ -2,8 +2,6 @@
 
 <h1 align="center">
   你好，我是 <b>孟立坤 (Likun MENG)</b> 👋<br>
-  <img alt="GitHub 用户获星数" src="https://img.shields.io/github/stars/MengLikun">
-  <img alt="GitHub 粉丝数" src="https://img.shields.io/github/followers/MengLikun">
 </h1>
 
 <h3>🏠 <b>主页</b>：<a href="https://github.com/MengLikun" target="_blank">github.com/MengLikun</a></h3>
@@ -19,7 +17,6 @@
 <p>
   <a href="mailto:2023090104@buct.edu.cn" target="_blank"><img src="https://img.shields.io/badge/Email-2023090104@buct.edu.cn-D14836?style=flat&logo=gmail&logoColor=white" alt="邮箱"></a>&nbsp;
   <a href="https://github.com/MengLikun" target="_blank"><img src="https://img.shields.io/badge/GitHub-MengLikun-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
-  <a href="tel:18835420796" target="_blank"><img src="https://img.shields.io/badge/Phone-18835420796-4CAF50?style=flat&logo=telephone&logoColor=white" alt="电话"></a>&nbsp;
 </p>
 
 # 📑 教育经历
