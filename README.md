@@ -11,7 +11,6 @@ I'm an undergraduate student in <b>Mechanical Design, Manufacturing and Automati
 
 <ul style="font-size:15px; line-height:1.6;">
 <li><b>GPA</b>: 92.31/100 (4.00/4.33)</li>
-<li><b>Awards</b>: National Scholarship, Li Wen Yang Yan Social Scholarship, Merit Scholarship, First-Class People’s Scholarship, University-level Merit Student</li>
 </ul>
 
 <p>
