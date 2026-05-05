@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUNMLK)
+
 
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KUNMLK&theme=xcode)
 
