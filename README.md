@@ -57,7 +57,7 @@ I'm an undergraduate student in <b>Mechanical Design, Manufacturing and Automati
 <li><b>2025 RAICOM Robot Developer Competition (ROS Simulation)</b> – Leader, National Second Prize</li>
 <li><b>2025 RoboCup China @Home League</b> – Core Member</li>
 <li><b>2025 iCAN Innovation Contest</b> – Core Member</li>
-<li><b>2024 National University Physics Competition</b> – National 3rd Prize, Beijing 3rd Prize</li>
+<li><b>2024 National University Physics Competition</b> – National 3rd Prize</li>
 <li><b>2025 "Mengya Cup" Science & Tech Competition</b> – Team Leader</li>
 </ul>
 
