@@ -3,8 +3,7 @@
   Hi, I'm <b>Likun MENG (孟立坤)</b> 👋
 </h3>
 
-I'm an undergraduate student in **Mechanical Design, Manufacturing and Automation** at **Beijing University of Chemical Technology** (2023–present). My research interests lie in **robotic manipulation, motion planning, 3D computer vision, and embodied AI** — with a focus on robotic arm control, grasp planning, and 3D point cloud understanding.
-
+I'm an undergraduate student in **Mechanical Design, Manufacturing and Automation** at **Beijing University of Chemical Technology** (2023–present). My research interests lie in **robotic manipulation, motion planning, 3D computer vision, and embodied AI** 
 - **GPA**: 92.31/100 (4.00/4.33)  
 - **Rank**: 1/81 (1.2%) in major | 2/81 comprehensively  
 - **Awards**: National Scholarship, Li Wen Yang Yan Social Scholarship, Merit Scholarship, First-Class People’s Scholarship, University-level Merit Student  
@@ -25,20 +24,20 @@ I'm an undergraduate student in **Mechanical Design, Manufacturing and Automatio
 - Li Wen Yang Yan Social Scholarship (2024–2025)  
 - Quality Development Scholarship (2024–2025)  
 - First-Class People’s Scholarship (2024–2025)  
-- University-level Merit Student (2023–2024)
+- Three Good Student (2023–2024)
 
 ## 🤖 Research Experience
 **RoboCup 2026 China @Home Service Robot** – Team Leader (Jan 2026 – Present)  
-- Developing a home-service robot with reception, voice interaction, object recognition, and cleaning functions.  
+- Developing a home-service robot with reception, voice interaction, object recognition.  
 - Motion planning and grasp control on **Kinova Gen2 7-DoF arm** using **MoveIt** and **RRT** for collision-free trajectories.  
 - Implemented 3D centroid localization with **YOLOv5** for high-precision grasping.
 
 **Superquadric Recovery for Robotic Grasping** (Oct 2025 – Present)  
 - Reproduced probabilistic superquadric recovery algorithms (EMS, MPS) for 3D shape modeling.  
-- Exploring extended shape families (torus, superellipsoid truncation) for manipulation.
+- Exploring extended shape families (Supertoroid, SuperFrustra) for manipulation.
 
 ## 🏆 Competitions
-- **2025 Ruikai Robot Developer Competition (ROS Simulation)** – Leader, National Second Prize  
+- **2025 RAICOM Robot Developer Competition (ROS Simulation)** – Leader, National Second Prize  
 - **2025 RoboCup China @Home League** – Core Member  
 - **2025 iCAN Innovation Contest** – Core Member  
 - **2024 National University Physics Competition** – National 3rd Prize, Beijing 3rd Prize  
@@ -48,5 +47,5 @@ I'm an undergraduate student in **Mechanical Design, Manufacturing and Automatio
 - **Robotics**: ROS1/ROS2, RViz, Gazebo, MoveIt, MuJoCo  
 - **Hardware & Design**: SolidWorks, Arduino  
 - **Programming**: Python, C++, MATLAB  
-- **Perception & Planning**: YOLOv5, 3D point cloud processing, motion & grasp planning  
+- **Perception & Planning**: YOLO, motion & grasp planning  
 - **Languages**: CET-4 (518), CET-6 (466)
