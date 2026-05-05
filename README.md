@@ -8,27 +8,18 @@
 
 <h3>🏠 <b>主页</b>：<a href="https://github.com/MengLikun" target="_blank">github.com/MengLikun</a></h3>
 
-<div style="font-size: 15px">
-    <p>你好！我是<b>孟立坤</b>，目前就读于<b>北京化工大学</b>机械设计制造及其自动化专业（2023年9月至今）。我的研究方向为<b>机器人操作、运动规划、三维计算机视觉与具身智能</b>，主要专注于机械臂控制、抓取规划及三维点云理解领域。</p>
+你好！我是 **孟立坤**，目前就读于 **北京化工大学** 机械设计制造及其自动化专业（2023年9月至今）。我的研究方向为 **机器人操作、运动规划、三维计算机视觉与具身智能**，主要专注于机械臂控制、抓取规划及三维点云理解领域。
 
-    <p>我学业成绩优异，加权平均分<b>92.31/100</b>，专业排名<b>1/81（1.2%）</b>，综合排名<b>2/81</b>，曾荣获<b>国家奖学金</b>及多项校级奖励。我拥有丰富的机器人科研与竞赛经历，担任<b>RoboCup 2026中国赛@Home</b>与<b>睿抗机器人开发者大赛</b>队长，熟练掌握ROS、MoveIt、机械臂控制及深度学习感知技术。</p>
+我学业成绩优异，加权平均分 **92.31/100**，专业排名 **1/81（1.2%）**，综合排名 **2/81**，曾荣获 **国家奖学金** 及多项校级奖励。我拥有丰富的机器人科研与竞赛经历，担任 **RoboCup 2026中国赛@Home** 与 **睿抗机器人开发者大赛** 队长，熟练掌握 ROS、MoveIt、机械臂控制及深度学习感知技术。
 
-    <p>我的技术体系涵盖机器人操作系统（ROS1/ROS2）、运动规划、仿真平台（Gazebo、Mujoco）、机械设计（SolidWorks）、嵌入式开发（Arduino）以及工程编程（MATLAB）。致力于为家庭及服务场景构建可靠、通用、智能化的机器人系统。</p>
+我的技术体系涵盖机器人操作系统（ROS1/ROS2）、运动规划、仿真平台（Gazebo、Mujoco）、机械设计（SolidWorks）、嵌入式开发（Arduino）以及工程编程（MATLAB）。致力于为家庭及服务场景构建可靠、通用、智能化的机器人系统。
 
-    <details>
-        <summary>英文介绍</summary>
-        <p>Hi! I am <b>Likun Meng</b>, an undergraduate student majoring in <b>Mechanical Design, Manufacturing and Automation</b> at <b>Beijing University of Chemical Technology</b> (since September 2023). My research focuses on <b>robot manipulation, motion planning, 3D computer vision, and embodied artificial intelligence</b>, with a particular emphasis on robotic arm control, grasp planning, and 3D point cloud understanding.</p>
-        <p>I have achieved outstanding academic performance with a <b>weighted average score of 92.31/100</b>, ranking <b>1/81 (1.2%)</b> in my major and <b>2/81</b> in comprehensive evaluation. I have been honored with the <b>National Scholarship</b> and multiple university-level awards. I have extensive experience in robotics research and competitions, serving as the team leader for <b>RoboCup China 2026 @Home</b> and <b>RAICOM Robotics Developer Competition</b>, and I am proficient in ROS, MoveIt, robotic arm control, and deep learning-based perception systems.</p>
-        <p>My technical expertise covers robot operating systems (ROS1/ROS2), motion planning, simulation platforms (Gazebo, Mujoco), mechanical design (SolidWorks), embedded development (Arduino), and engineering programming (MATLAB). I am dedicated to building reliable, generalizable, and intelligent robotic systems for real-world home and service scenarios.</p>
-    </details>
-</div>
+<p><i>欢迎通过邮件交流学术与科研合作。</i></p>
 
-<p><i style="color: red; display: inline;">欢迎通过邮件交流学术与科研合作。</i></p>
-
-<p style="margin-top: -10px;">
-  <a href="mailto:2023090104@buct.edu.cn" target="_blank"><img src="email-icon.png" height="32px" style="margin-bottom:-4px" alt="邮箱"></a>&nbsp;
-  <a href="https://github.com/MengLikun" target="_blank"><img src="github-icon.png" height="30px" style="margin-bottom:-3px" alt="GitHub"></a>&nbsp;
-  <a href="tel:18835420796" target="_blank"><img src="phone-icon.png" height="30px" style="margin-bottom:-3px" alt="电话"></a>&nbsp;
+<p>
+  <a href="mailto:2023090104@buct.edu.cn" target="_blank"><img src="email-icon.png" height="32px" alt="邮箱"></a>&nbsp;
+  <a href="https://github.com/MengLikun" target="_blank"><img src="github-icon.png" height="30px" alt="GitHub"></a>&nbsp;
+  <a href="tel:18835420796" target="_blank"><img src="phone-icon.png" height="30px" alt="电话"></a>&nbsp;
 </p>
 
 # 📑 教育经历
@@ -49,9 +40,9 @@
 ### RoboCup 2026中国赛 @Home服务机器人 | 队长  
 2026年1月 – 至今  
 - 研发面向家庭应用的智能服务机器人系统，具备访客接待、语音交互、物体识别及环境清洁等功能。  
-- 主导**Kinova Gen2 7自由度机械臂**的运动规划与抓取控制系统开发。  
-- 基于**MoveIt**和**RRT**算法构建机械臂运动规划系统，实现复杂环境下的无碰撞轨迹规划。  
-- 提出结合**YOLOv5**目标检测的基于点云质心的三维定位方法，实现高精度目标定位与自适应抓取。
+- 主导 **Kinova Gen2 7自由度机械臂** 的运动规划与抓取控制系统开发。  
+- 基于 **MoveIt** 和 **RRT** 算法构建机械臂运动规划系统，实现复杂环境下的无碰撞轨迹规划。  
+- 提出结合 **YOLOv5** 目标检测的基于点云质心的三维定位方法，实现高精度目标定位与自适应抓取。
 
 ### 超二次曲面恢复与机器人抓取研究  
 2025年10月 – 至今  
